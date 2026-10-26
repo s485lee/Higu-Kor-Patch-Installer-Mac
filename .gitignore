@@ -1,0 +1,15 @@
+# Build output
+/target
+/dist
+/payload
+/assets
+
+# Logs
+*.log
+
+# Local environment
+.env
+.env.*
+
+# macOS
+.DS_Store
